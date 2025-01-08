@@ -71,8 +71,9 @@ Para obtener alertas de desastres naturales en tiempo real, incluidas tormentas,
     GDACS: https://www.gdacs.org/
     
     
-    
-    
+12. Datasets del Gobierno de los Estados Unidos
+- Temática: salud, transporte, medio ambiente...
+- Enlace: https://data.gov/ 
     
 
 https://medicaldevices.icij.org/
