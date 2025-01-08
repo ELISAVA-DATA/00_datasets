@@ -71,9 +71,8 @@ Para obtener alertas de desastres naturales en tiempo real, incluidas tormentas,
     GDACS: https://www.gdacs.org/
     
     
-12. Datasets del Gobierno de los Estados Unidos
-- Temática: salud, transporte, medio ambiente...
-Enlace: https://data.gov/ 
+    
+    
     
 
 https://medicaldevices.icij.org/
@@ -81,6 +80,5 @@ https://freesound.org/search/?q=zaragoza
 https://marine.copernicus.eu/
 https://github.com/Tikai7/Flight-Radar-Scrapper
 
-13. Deuda Gubernamental en Europa 
 
-https://www.google.com/publicdata/explore?ds=ds22a34krhq5p_#!ctype=l&strail=false&bcs=d&nselm=h&rdim=country_group&idim=country_group:eu&ifdim=country_group&hl=es&dl=es&ind=false
+dashdhjagsdiu i
