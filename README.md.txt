@@ -43,7 +43,7 @@ Proporciona datos meteorológicos en tiempo real, como pronósticos, tormentas, 
 
 Una plataforma que ofrece pronósticos de tormentas, vientos, rayos y datos satelitales en tiempo real:
 
-    Windy.com: https://www.windy.com/
+    Windy.com: https://www.windy.com/ ggg
 
 8. Real-Time Lightning Data
 
