@@ -84,3 +84,6 @@ https://github.com/Tikai7/Flight-Radar-Scrapper
 13. Deuda Gubernamental en Europa 
 
 https://www.google.com/publicdata/explore?ds=ds22a34krhq5p_#!ctype=l&strail=false&bcs=d&nselm=h&rdim=country_group&idim=country_group:eu&ifdim=country_group&hl=es&dl=es&ind=false
+
+14. - Base de datos de netflix
+https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows
