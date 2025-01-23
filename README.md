@@ -87,3 +87,20 @@ https://www.google.com/publicdata/explore?ds=ds22a34krhq5p_#!ctype=l&strail=fals
 
 14. - Base de datos de netflix
 https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows
+
+15.-  Todas las ciudades del mundo
+https://simplemaps.com/data/world-cities
+
+16. Iee Data report
+https://ieee-dataport.org/datasets
+
+17. Datos contra el ruido
+https://datoscontraelruido.org/
+
+18. Google Dataset Search
+https://datasetsearch.research.google.com/
+
+19. Portal de Datos Abiertos de Esri España
+https://opendata.esri.es/
+
+
