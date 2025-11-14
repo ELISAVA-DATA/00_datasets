@@ -111,3 +111,11 @@ https://data.caltech.edu/records/65de6-vp158
 https://opendata.esri.es/
 
 
+21 https://datos.gob.es/es/aplicaciones
+
+En esta sección te mostramos algunos ejemplos de aplicaciones y soluciones desarrolladas utilizando, entre otros, datos ofrecidos por las administraciones públicas.
+
+Desde la Iniciativa Aporta no se asume la exactitud de la información contenida en la ficha descriptiva de cada una de ellas, ni del sitio web en el que se describe la aplicación con mayor detalle.
+
+
+
